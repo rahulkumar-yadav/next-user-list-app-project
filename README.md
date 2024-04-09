@@ -1,4 +1,4 @@
-# React User List App
+# Next User List App
 
 This repository contains a simple website built using NextJS, displaying a list of users and their details fetched from a provided API.
 
