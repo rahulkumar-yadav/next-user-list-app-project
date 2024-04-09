@@ -4,7 +4,7 @@ This repository contains a simple website built using NextJS, displaying a list 
 
 # Live Demo
 
-You can view a live demo of the project [here](https://react-user-list-app-project.netlify.app/).
+You can view a live demo of the project [here](https://next-user-list-app-project.netlify.app/).
 
 ## Features
 
